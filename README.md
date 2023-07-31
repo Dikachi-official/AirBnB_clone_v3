@@ -81,7 +81,7 @@ No known bugs at this time.
 
 Dikachi-official - [Github](https://github.com/Dikachi-official) / [Twitter](https://twitter.com/Deeka_official1)
 
-Second part of Airbnb: Joann Vuong
+Second part of Airbnb: Michael Anokwulu
 
 ## License
 
